@@ -1,5 +1,3 @@
 # example-git
 
-Hola
-
-Este es el ejemplo de git
+Hola, este es el ejemplo de git
